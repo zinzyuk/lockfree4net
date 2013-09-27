@@ -1,7 +1,5 @@
-C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\bin\Debug\Lockfree4net.PerformanceTest.exe
-C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\bin\Debug\Lockfree4net.PerformanceTest.pdb
-C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\bin\Debug\Lockfree4net.dll
-C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\bin\Debug\Lockfree4net.pdb
+C:\Projects\Lockfree4net\build\Debug\Lockfree4net.PerformanceTest.exe
+C:\Projects\Lockfree4net\build\Debug\Lockfree4net.PerformanceTest.pdb
 C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\obj\x86\Debug\Lockfree4net.PerformanceTest.csprojResolveAssemblyReference.cache
 C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\obj\x86\Debug\Lockfree4net.PerformanceTest.exe
 C:\Projects\Lockfree4net\Lockfree4net.PerformanceTest\obj\x86\Debug\Lockfree4net.PerformanceTest.pdb
