@@ -1,0 +1,5 @@
+C:\Projects\Lockfree4net\Lockfree4net\bin\Debug\Lockfree4net.dll
+C:\Projects\Lockfree4net\Lockfree4net\bin\Debug\Lockfree4net.pdb
+C:\Projects\Lockfree4net\Lockfree4net\obj\Debug\Lockfree4net.dll
+C:\Projects\Lockfree4net\Lockfree4net\obj\Debug\Lockfree4net.pdb
+C:\Projects\Lockfree4net\Lockfree4net\obj\Debug\Lockfree4net.csprojResolveAssemblyReference.cache

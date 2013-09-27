@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="33601868-5ED5-42F0-B9EF-76F1C99FD051" ModuleId="Lockfree4net" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="7DDD53AE-18F3-40EE-8840-1BD3994A32B5" ModuleId="Lockfree4net.PerformanceTest" />
+</Modules>
